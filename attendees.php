@@ -25,7 +25,7 @@ htmlHead('Attendees at the Berlin Workshop: Maximising interoperability &mdash; 
   <li>Erik Borälv, Vinnova</li>
 <!--  <li>Aranita Brahaj, Albanian Institute of Science</li> -->
   <li>Heather Broomfield, Difi</li>
-  <li>Wendy Carrara, CapGemini/ODP</li>
+  <li>Wendy Carrara, Capgemini</li>
   <li>Benjamin Cave, ODI</li>
   <li>Toms Celmillers, Electronic Government Department, Ministry, Latvia</li>
   <li>Edgars Celms, IMCS
@@ -38,7 +38,7 @@ htmlHead('Attendees at the Berlin Workshop: Maximising interoperability &mdash; 
   <li>Benjamin Dittwald, FOKUS</li>
   <li>Alessio Dragoni, SciamLab</li>
   <li>Joonas Dukpa, City of Tampere</li>
-  <li>Udo Einspanier, con terra/ODP</li>
+  <li>Udo Einspanier, con terra</li>
   <li>Pavlik Elf, hackers4peace</li>
   <li>Lena Farid, Franhofer FOKUS</li>
   <li>Jamie Fawcett, The ODI</li>
@@ -73,7 +73,7 @@ htmlHead('Attendees at the Berlin Workshop: Maximising interoperability &mdash; 
   <li>Anne Kauhanen-Simanainen, Ministry of Finance, Finland</li> 
   <li>Daniel Kerkow, OpenOil</li>
   <li>Hannes Kiivet, EISA</li>
-  <li>Fabian Kirstein, FOKUS</li>
+  <li>Fabian Kirstein, Fraunhofer FOKUS</li>
   <li>Marc Kleemann, con terra</li>
   <li>Jens Klessmann, Fraunhofer FOKUS</li>
   <li>Jakub Klímek, OpenData.cz</li>
@@ -153,7 +153,7 @@ htmlHead('Attendees at the Berlin Workshop: Maximising interoperability &mdash; 
   <li>Peter Winstanley, Scottish Government</li>
   <li>Jacek Wolszczak, Ministry of Administration and Digitization</li>
   <li>Agnieszka Zajac, EU Publications Office/EU Open Data Portal</li>
-
+  <li>Simon Dutkowski, Fraunhofer FOKUS</li>
 </ol>
 </section>
 </main>
